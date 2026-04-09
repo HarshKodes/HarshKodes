@@ -11,8 +11,26 @@ Hi, I'm Harsh — a passionate Frontend Developer focused on building clean, sca
 
 <h2 align="center">🛠️ Tech Stack</h2>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,nodejs,express,mongodb,docker,aws,git,github,vscode,linux,figma" />
+## 🛠️ Technologies
+
+### 💻 Core
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts" />
+</p>
+
+### ⚙️ Frameworks
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,nodejs,express" />
+</p>
+
+### 🗄️ Database & Cloud
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,docker,aws" />
+</p>
+
+### 🧰 Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,figma" />
 </p>
 <!--
 **HarshKodes/HarshKodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
