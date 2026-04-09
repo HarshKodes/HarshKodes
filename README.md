@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=WELCOME%20TO%20HARSH%27S%20GITHUB&fontSize=32&font=Orbitron&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Welcome%20to%20Harsh%27s%20GitHub&fontSize=34&font=Montserrat&fontColor=ffffff)
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=Frontend+Developer;React+Enthusiast;Future+Full+Stack+Engineer;Always+Learning+New+Things" />
