@@ -44,12 +44,10 @@ Hi, I'm Harsh — a passionate Frontend Developer focused on building clean, sca
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=HarshKodes&theme=tokyonight" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=HarshKodes&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
+<h2 align="center">📊 LeetCode Stats</h2>
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+  <img src="https://leetcard.jacoblin.cool/HepiCodes?theme=dark&font=baloo&ext=heatmap" />
 </p>
 <!--
 **HarshKodes/HarshKodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
