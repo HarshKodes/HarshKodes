@@ -49,6 +49,8 @@ Hi, I'm Harsh — a passionate Frontend Developer focused on building clean, sca
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/HepiCodes?theme=dark&font=baloo&ext=heatmap" />
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=footer"/>
 <!--
 **HarshKodes/HarshKodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
