@@ -13,8 +13,6 @@ Hi, I'm Harsh — a passionate Frontend Developer focused on building clean, sca
 - Exploring backend → cloud → devops roadmap  
 - Open to collaborations and projects
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" />
-
 <h2 align="center">🛠️ Tech Stack</h2>
 
 ## 🛠️ Technologies
@@ -44,6 +42,14 @@ Hi, I'm Harsh — a passionate Frontend Developer focused on building clean, sca
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=HarshKodes&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=HarshKodes&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=HarshKodes&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
 <!--
 **HarshKodes/HarshKodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
