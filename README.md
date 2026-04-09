@@ -44,15 +44,18 @@ Hi, I'm Harsh — a passionate Frontend Developer focused on building clean, sca
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=HarshKodes&theme=tokyonight" />
 </p>
 
+<h2 align="center">🐍 Contribution Graph</h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/HarshKodes/HarshKodes/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
 <h2 align="center">📊 LeetCode Stats</h2>
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/HepiCodes?theme=dark&font=baloo&ext=heatmap" />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/HarshKodes/HarshKodes/output/github-contribution-grid-snake-dark.svg" />
-</p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=footer"/>
 <!--
