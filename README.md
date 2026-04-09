@@ -13,6 +13,8 @@ Hi, I'm Harsh — a passionate Frontend Developer focused on building clean, sca
 - Exploring backend → cloud → devops roadmap  
 - Open to collaborations and projects
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" />
+
 <h2 align="center">🛠️ Tech Stack</h2>
 
 ## 🛠️ Technologies
