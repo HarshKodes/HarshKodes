@@ -50,6 +50,10 @@ Hi, I'm Harsh — a passionate Frontend Developer focused on building clean, sca
   <img src="https://leetcard.jacoblin.cool/HepiCodes?theme=dark&font=baloo&ext=heatmap" />
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/HarshKodes/HarshKodes/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=footer"/>
 <!--
 **HarshKodes/HarshKodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
