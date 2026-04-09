@@ -36,7 +36,7 @@ Hi, I'm Harsh — a passionate Frontend Developer focused on building clean, sca
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HarshKodes&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=HarshKodes&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=HarshKodes&theme=tokyonight" />
 </p>
 <!--
