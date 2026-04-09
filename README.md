@@ -1,4 +1,15 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Welcome%20to%20Harsh's%20GitHub&fontSize=30&fontColor=ffffff)
+
+## 👨‍💻 About Me
+
+Hi, I'm Harsh — a passionate Frontend Developer focused on building clean, scalable, and modern web applications.  
+
+- ⚡ I value performance and clean architecture  
+- 🚀 Currently learning React & full-stack development  
+- 🧠 Exploring backend → cloud → devops roadmap  
+- 🤝 Open to collaborations and projects
+
+  
 <!--
 **HarshKodes/HarshKodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
