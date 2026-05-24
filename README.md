@@ -6,7 +6,7 @@
 
 ## 👨‍💻 About Me
 
-Hi, I'm Harsh — a passionate Frontend Developer focused on building clean, scalable, and modern web applications.  
+Hi, I'm Harsh — a passionate developer focused on building clean, scalable, and modern web applications.  
 
 - I value performance and clean architecture  
 - Currently learning React & full-stack development  
